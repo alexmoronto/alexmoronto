@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Alexander
+- 👀 I’m .NET Development using C# since July'19
+- <img src="https://revizto.com/favicon.ico" height="17" />&nbsp;&nbsp;.NET Developer at [@revizto](https://github.com/revizto)
+- 📫 How to reach me:
+  - [toruk010994@gmail.com](mailto:toruk010994@gmail.com)
+  - [@therealmoronto](https://t.me/therealmoronto) on Telegram
